@@ -1,0 +1,11 @@
+path: D:/Custom Image Detection using YOLO/NUMBER PLATE DATASET
+train: images
+val: images
+
+names:
+  0: Bike
+  1: Bus
+  2: Car
+  3: Number plate
+  4: Person
+  5: Truck

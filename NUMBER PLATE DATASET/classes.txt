@@ -1,0 +1,6 @@
+Bike
+Bus
+Car
+Number plate
+Person
+Truck
